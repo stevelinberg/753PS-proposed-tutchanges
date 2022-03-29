@@ -28,5 +28,5 @@ This is an in-progress list of proposed changes to the tutorials for 753PS.
 	- Explain, don't just show "You may want to experiment with using different methods for the option `equiv.clust(..., cluster.method="")`, replacing the default `cluster.method="complete"` with an alternative such as _single, average_, or _ward.D_. How does changing the clustering method change which nodes are closest to each other?"
 	- Explain vacant clusters in dendrograms
 	- Investigate/explain why cluster partitions using fixed `h` don't match blockmodel partitions with the same `h` (flomarriage, week 6 hw)
-	- "In practice, there are different approaches to identifying the best cutpoint to use as the basis for partitioning, and we explore those in more detail below." - we don't, or I missed it
+	- "In practice, there are different approaches to identifying the best cutpoint to use as the basis for partitioning, and we explore those in more detail below." - don't see it
 	
